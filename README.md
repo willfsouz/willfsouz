@@ -2,7 +2,7 @@
   <h2><strong>Hi there👋</strong></h2>
   <h3>My name is Will, i'm 21 years old, and a enthusiast of tech, i like listening to music and playing some games.<br>
   I'm a curious professional, who likes to know how things are created and learn how they work.<br>
-  I'm actually focusing on fullstack development and always working on new projects to constantly improving my skills and knowledge</h3>
+  I'm actually focusing on fullstack development and always working on new projects to constantly improving my skills and knowledge.</h3>
 </div>
 
 <div align="center">
