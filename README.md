@@ -69,7 +69,7 @@
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=idea" width="50" height="50" alt="css" />
-      <br>IntelliJ IDEA
+      <br>IntelliJ
     </td>    
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="css" />
