@@ -25,7 +25,7 @@
   </p>
 </div>
 
-<h2 align="center"><strong>Technologies:</strong></h2>
+<h2 align="center"><strong>Languages and Tools:</strong></h2>
 
 <table align="center">
   <tr>
