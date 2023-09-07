@@ -16,11 +16,11 @@
 
 <div align="center">
   <p>
-    <img width="450em" src="https://github-readme-stats.vercel.app/api?username=WillzuDev&theme=codeSTACKr&show_icons=true&hide_border=true&count_private=true" />
+    <img width="450em" src="https://github-readme-stats.vercel.app/api?username=willfsouz&theme=codeSTACKr&show_icons=true&hide_border=true&count_private=true" />
   </p>
 
   <p>
-    <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillzuDev&layout=compact&theme=codeSTACKr"/>
+    <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willfsouz&layout=compact&theme=codeSTACKr"/>
   </p>
 </div>
 
