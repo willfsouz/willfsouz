@@ -1,4 +1,4 @@
-<div>
+<div class="bio">
   <h2><strong>Hi there👋</strong></h2>
   <h3>My name is Will, i'm 21 years old, and a enthusiast of tech, i like listening to music and playing games.<br>
   I'm a curious professional, who likes to know how things are created and learn how they work.<br>
