@@ -12,6 +12,7 @@
  	<a href="https://twitter.com/willfsouz" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
 
+<div align="center">
   <p>
     <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willfsouz&layout=compact&theme=codeSTACKr"/>
   </p>
