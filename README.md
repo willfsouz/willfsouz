@@ -12,13 +12,6 @@
  	<a href="https://twitter.com/willfsouz" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
 
-  <h2 align="center"><strong>My Github stats:</strong></h2>
-
-<div align="center">
-  <p>
-    <img width="450em" src="https://github-readme-stats.vercel.app/api?username=willfsouz&theme=codeSTACKr&show_icons=true&hide_border=true&count_private=true" />
-  </p>
-
   <p>
     <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willfsouz&layout=compact&theme=codeSTACKr"/>
   </p>
