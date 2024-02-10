@@ -66,7 +66,7 @@
     </td>    
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="css" />
-      <br>VSCode
+      <br>VS Code
     </td>
   </tr>
 </table>
